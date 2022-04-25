@@ -1,6 +1,11 @@
 # LinuxBasics
 Comandos basicos para comecar a usar linux
 
+<strong>Entendendo linux</strong>
+Linux trabalha bastante com comandos padronizados feitos pelo projeto gnu, como o terminal [Bash](https://pt.wikipedia.org/wiki/Bash) e [GNU Core Utils](https://pt.wikipedia.org/wiki/GNU_Core_Utilities)
+
+
+
 
 ### CD
 Comando utlizado para se mover entra pastas
