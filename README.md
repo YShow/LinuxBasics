@@ -10,7 +10,7 @@ Linux trabalha bastante com projetos feito pelo [GNU](https://www.gnu.org), como
 
 ### CD
 
-<detail>
+<details>
 <summary>Comando utlizado para se mover entre diretorios</summary>
   <strong>Uso basico</strong>
   <pre>cd /home/usuario</pre>
