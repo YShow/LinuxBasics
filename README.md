@@ -3,7 +3,7 @@ Comandos basicos para comecar a usar linux
 
 <strong>Entendendo linux</strong>
 
-Linux trabalha bastante com comandos padronizados feitos pelo projeto [GNU](https://www.gnu.org), como o terminal [Bash](https://pt.wikipedia.org/wiki/Bash) e [GNU Core Utils](https://pt.wikipedia.org/wiki/GNU_Core_Utilities)
+Linux trabalha bastante com projetos feito pelo [GNU](https://www.gnu.org), como o terminal [Bash](https://pt.wikipedia.org/wiki/Bash) e [GNU Core Utils](https://pt.wikipedia.org/wiki/GNU_Core_Utilities), a maioria dos comandos sao POSIX ou seja, padronizados para quase todos os sistemas unix e relacionados
 
 
 
