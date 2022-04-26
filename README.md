@@ -11,7 +11,9 @@ Linux trabalha bastante com projetos feito pelo [GNU](https://www.gnu.org), como
 ### CD
 
 <detail>
-<summary>Comando utlizado para se mover entra pastas</summary>
+<summary>Comando utlizado para se mover entre diretorios</summary>
+  <strong>Uso basico</strong>
+  <pre>cd /home/usuario</pre>
 </details>
 
 ### MV
