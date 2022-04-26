@@ -9,7 +9,10 @@ Linux trabalha bastante com projetos feito pelo [GNU](https://www.gnu.org), como
 
 
 ### CD
-Comando utlizado para se mover entra pastas
+
+<detail>
+<summary>Comando utlizado para se mover entra pastas</summary>
+</details>
 
 ### MV
 Comando utlizado para mover pastas/arquivos
